@@ -6,6 +6,8 @@
 
 #Assignment 2: https://github.com/ParupatiNagavardhanreddy/AIML2024/blob/main/Week%202%20Assignment.pdf
 
+#Assignment 3:https://github.com/ParupatiNagavardhanreddy/AIML2024/blob/main/2203A51505%20AIML%20(1).pdf
+
 #ML Assignment 1: https://github.com/ParupatiNagavardhanreddy/AIML2024/blob/main/2203a51505.ipynb%20-%20Colaboratory.pdf
 
 #ML Assignment 2 :https://github.com/ParupatiNagavardhanreddy/AIML2024/blob/main/Assignment_5%20(AIML).pdf
